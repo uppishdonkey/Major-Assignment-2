@@ -52,12 +52,12 @@ p {
 }
 
 
-.hero {
+.hero img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url('../homepage1.jpg');
-    background-size: cover;
+    background-image: url('homepage1.jpg');
+    background-size:auto;
     background-position: center;
 }
 

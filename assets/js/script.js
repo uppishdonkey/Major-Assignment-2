@@ -5,5 +5,5 @@ function toggleMenu() {
 }
 
 // Add an event listener for the menu button
-const menuButton = document.querySelector('.header div');
+const menuButton = document.querySelector('.content h2');
 menuButton.addEventListener('click', toggleMenu);

@@ -87,6 +87,16 @@ p {
     color: whitesmoke;
 }
 
+.content p {
+    font-size: 50px;
+}
+
+.dis16 {
+    min-height: 3000px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .img {
     max-height: 200px; 
 }
@@ -97,7 +107,8 @@ p {
 
 .content h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 60px;
+    text-decoration: underline;
 }
 
 .back-button {
